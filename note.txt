@@ -1,0 +1,19 @@
+
+pilot_study.csv & Exp1_humanresult.csv
+model1 records the visible mean size. 
+average_r records the overall mean size. 
+estimate_size records the estimations of the participants.
+cover records the occlusion position. 
+size records the regularity.
+
+
+Exp2_humanresult.csv
+model1 records the visible mean size. 
+average records the overall mean size. 
+estimate_size records the estimations of the participants.
+TRUE records the unvisible mean size.
+cover records the occlusion position. 
+size records the regularity.
+
+
+Note: We replaced Chinese characters with their English in all the files.
